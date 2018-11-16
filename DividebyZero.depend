@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542325439 source:c:\users\allie\onedrive\desktop\dividebyzero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
